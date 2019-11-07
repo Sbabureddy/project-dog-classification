@@ -4,3 +4,4 @@ dogImages/
 .ipynb_checkpoints/
 __pycache__
 *.pt
+myImages/
