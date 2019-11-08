@@ -1,7 +1,5 @@
-lfw/
-dogImages/
-.vscode/
-.ipynb_checkpoints/
 __pycache__
+.ipynb_checkpoints
+dogImages/
+lfw/
 *.pt
-myImages/
